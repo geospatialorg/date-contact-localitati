@@ -498,7 +498,7 @@ ID_judet,Judet,SIRUTA,Localitate,Wikidata,Website,E-mail general 1 1,E-mail gene
 6,BISTRITA-NASAUD,179944,Runcu Salvei,Q16425791,https://primariaruncusalvei.ro/,mailto:primariarunc@yahoo.com,,,+40-263352211,,,,"Str. Principală, nr. 1"
 6,BISTRITA-NASAUD,34397,Salva,Q16425794,https://primariasalva.ro/,mailto:primariasalva@yahoo.com,,,+40-263361202,,,,"Str. Principală, nr. 153"
 6,BISTRITA-NASAUD,34477,Sânmihaiu de Câmpie,Q5064408,https://www.sinmihaiudecimpie.ro/,mailto:prim.sinmihai@gmail.com,,,+40-363402697,,,,"Comuna Sanmihaiu de Campie, nr 53"
-6,BISTRITA-NASAUD,34618,Șanț,Q5067115,http://www.comunasant.ro/ro/,mailto:primarie@comunasant.ro,,,+40-263379007,,,,"Str. Principală, nr. 92"
+6,BISTRITA-NASAUD,34618,Șanț,Q5067115,https://www.comunasant.ro/,mailto:primarie@comunasant.ro,,,+40-263379007,,,,"Str. Principală, nr. 92"
 6,BISTRITA-NASAUD,34645,Șieu,Q5065367,http://www.comunasieu.ro/,mailto:primariasieubn@yahoo.com,,,+40-263260159,,,,"Str. Principală, Nr. 261"
 6,BISTRITA-NASAUD,34690,Șieu-Măgheruș,Q5066076,http://www.sieu-magherus.ro/,mailto:office@magherus.ro,,,+40-263277490,,,,Șieu Măgheruș nr 243
 6,BISTRITA-NASAUD,34770,Șieu-Odorhei,Q5065311,https://sieuodorhei.ro/,mailto:primariasieu_odorhei@yahoo.com,,,+40-263351778,,,,"Localitatea Șieu-Odorhei, nr 48"
@@ -785,10 +785,10 @@ ID_judet,Judet,SIRUTA,Localitate,Wikidata,Website,E-mail general 1 1,E-mail gene
 11,CARAS-SEVERIN,50889,Anina,Q548502,http://www.primaria-anina.ro/,mailto:primar.anina@yahoo.com,,,+40-255240115,,,,"Str. Mathias Hammer, nr. 2"
 11,CARAS-SEVERIN,50923,Băile Herculane,Q650981,https://www.primaria-baileherculane.ro/,mailto:primbh@yahoo.com,,,+40-255560439,,,,"Str. Mihai Eminescu , nr. 10"
 11,CARAS-SEVERIN,50969,Bocșa,Q75504,https://www.orasulbocsa.ro/,mailto:primariabocsa@yahoo.com,,,+40-25555500003555666050355566606,,,,Str. 1 Decembrie 1918
-11,CARAS-SEVERIN,51056,Moldova Nouă,Q829051,http://www.moldovanoua.com/,mailto:contact@moldovanoua.com,,,+40-255540997,,,,"Str. Nicolae Bălcescu, Nr. 26, Moldova Nouă, CS 325500"
+11,CARAS-SEVERIN,51056,Moldova Nouă,Q829051,https://primariamoldovanoua.ro/,mailto:contact@primariamoldovanoua.ro,,,+40-255540997,,,,"Str. Nicolae Bălcescu, Nr. 26, Moldova Nouă, CS 325500"
 11,CARAS-SEVERIN,51118,Oravița,Q383085,http://www.primariaoravita.ro/,mailto:primariaorasuluioravita@gmail.com,,,+40-255571133,,,,"Str. 1 Decembrie 1918 nr. 60, cod 325600, jud. Caras-Severin"
 11,CARAS-SEVERIN,51207,Oțelu Roșu,Q75537,https://otelu-rosu.ro/,mailto:primaria_otelurosu@yahoo.com,,,+40-255530803,,,,"Str. Rozelor, Nr.2, cod 325700"
-11,CARAS-SEVERIN,51243,Armeniș,Q5065543,http://www.armenis.ro/,mailto:armeniscs@yahoo.com,,,+40-255529604,,,,"Armenis, Nr.368, cod postal 327005"
+11,CARAS-SEVERIN,51243,Armeniș,Q5065543,https://primaria-armenis.ro/,mailto:armeniscs@yahoo.com,,,+40-255529604,,,,"Armenis, Nr.368, cod postal 327005"
 11,CARAS-SEVERIN,51305,Bănia,Q5065491,https://www.primariabania.ro/,mailto:primariabania@gmail.com,,,+40-255243611,,,,"Str. Principala, nr. 120, Cod postal 243718, Jud. Caras-Severin"
 11,CARAS-SEVERIN,51332,Băuțar,Q5064736,,mailto:primaria.bautar@gmail.com,,,+40-255521602,,,,"Str. Principala nr. 55, Cod postal 327015"
 11,CARAS-SEVERIN,51387,Berliște,Q5065521,http://primariaberliste.ro/,mailto:primariaberlistecs@yahoo.com,,,+40-255576101,,,,"Berliste, Str. Principala, Nr. 99, Cod postal 327020, Jud. Caras-Severin"
@@ -1308,7 +1308,7 @@ ID_judet,Judet,SIRUTA,Localitate,Wikidata,Website,E-mail general 1 1,E-mail gene
 17,DOLJ,74750,Vârvoru de Jos,Q16426546,http://varvorudejos.ro/,mailto:varvorudejos@yahoo.com,,,+40-251360251,,,,"Strada Principală, nr. 133"
 17,DOLJ,74616,Vela,Q12725252,http://vela-dolj.ro/,mailto:primar@vela-dolj.ro,,,+40-251362619,,,,"Sat Vela, Com. Vela, jud. Dolj"
 17,DOLJ,74705,Verbița,Q2465740,https://primariaverbita.ro/,mailto:verbita@cjdolj.ro,,,+40-251367113,+40-251367046,,,"Verbița, strada Primăriei, nr. 20"
-18,GALATI,75098,Galați,Q170996,https://www.primariagalati.ro/portal/index.php,mailto:main@primaria.galati.ro,,,+40-236307700,,,,Str. Domneasca nr. 54
+18,GALATI,75098,Galați,Q170996,https://www.primariagalati.ro/,mailto:sesizari@primariagalati.ro,,,+40-236307700,,,,Str. Domneasca nr. 54
 18,GALATI,75203,Tecuci,Q546686,http://primariatecuci.ro,mailto:tecuci@gl.e-adm.ro,,mailto:registratura@municipiultecuci.ro,+40-372364111,,,,"Str. 1 Decembrie 1918, Nr.66"
 18,GALATI,75338,Berești,Q771191,https://www.orasulberesti.ro/,mailto:office@orasulberesti.ro,,,+40-236342329,,,,Str. Trandafirilor nr. 28
 18,GALATI,75472,Târgu Bujor,Q592480,https://www.primariatgbujor.ro/,mailto:primariatgbujor@yahoo.com,,,+40-236340339,,,,Str General Eremia Grigorescu nr 105
@@ -2497,7 +2497,7 @@ ID_judet,Judet,SIRUTA,Localitate,Wikidata,Website,E-mail general 1 1,E-mail gene
 33,SALAJ,142550,Sălățig,Q12725203,http://comunasalatig.ro/,mailto:primariasalatig@yahoo.com,,,+40-260650480,,,,"localitatea Sălățig, nr. 121, județ Sălaj"
 33,SALAJ,142854,Șamșud,Q12712945,https://samsud.ro/,mailto:contact@samsud.ro,,,+40-260653201,+40-786763334,,,"str. Principală, nr. 38, loc. Șamșud, jud. Sălaj"
 33,SALAJ,142676,Sânmihaiu Almașului,Q12725182,https://sinmihaiualmasului.ro/,mailto:primarie_sinmihai@mynextgen.ro,,,+40-260627100,,,,"strada Principală, nr. 432"
-33,SALAJ,142881,Sărmășag,Q12152399,https://www.sarmasag.ro/ro/home.html,mailto:primariasarmasag@yahoo.com,,,+40-260655500,,,,"comuna Şărmăşag, sat Șărmășag, str. Teilor, Nr. 34, Judeţul Sălaj, cod poștal 457330"
+33,SALAJ,142881,Sărmășag,Q12152399,https://www.sarmasag.ro/,mailto:primariasarmasag@yahoo.com,,,+40-260655500,,,,"comuna Şărmăşag, sat Șărmășag, str. Teilor, Nr. 34, Judeţul Sălaj, cod poștal 457330"
 33,SALAJ,179695,Șimișna,Q12712947,https://www.primariasimisna.ro/,mailto:primariasimisna@yahoo.com,,,+40-260639503,,,,"COMUNA ȘIMIȘNA, SAT ȘIMIȘNA, NR.40/A"
 33,SALAJ,142710,Someș-Odorhei,Q3885303,https://www.comunasomesodorhei.ro/,mailto:somesodorheicj@yahoo.co.uk,,,+40-260654603,,,,"Loc. Someș-Odorhei, nr. 234, județul Sălaj, 457310"
 33,SALAJ,142774,Surduc,Q16427390,http://www.primariasurduc.ro/,mailto:primaria_surduc@yahoo.com,,,+40-260634702,,,,"str. Principală, nr. 135 comuna Surduc, 457315 jud. Sălaj"
